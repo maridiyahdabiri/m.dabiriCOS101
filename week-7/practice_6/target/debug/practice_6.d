@@ -1,0 +1,1 @@
+C:\Users\LENOVO\Documents\PAUClasses\100LV\COS101\m.dabiriCOS101\week-7\practice_6\target\debug\practice_6.exe: C:\Users\LENOVO\Documents\PAUClasses\100LV\COS101\m.dabiriCOS101\week-7\practice_6\src\main.rs
