@@ -1,0 +1,1 @@
+C:\Users\LENOVO\Documents\PAUClasses\100LV\COS101\m.dabiriCOS101\week-9\project_2\target\debug\project_2.exe: C:\Users\LENOVO\Documents\PAUClasses\100LV\COS101\m.dabiriCOS101\week-9\project_2\src\main.rs
