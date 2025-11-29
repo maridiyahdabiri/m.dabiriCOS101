@@ -1,0 +1,28 @@
+EFCC MERGED DATASET
+
+Record 1
+Commissioner : Aigbogun Alamba Daudu
+Ministry : Internal Affairs
+Geo Zone : South West
+
+Record 2
+Commissioner : Murtala Bendu
+Ministry : Justice
+Geo Zone : North East
+
+Record 3
+Commissioner : Okorocha Calistus Ogbona
+Ministry : Defense
+Geo Zone : South South
+
+Record 4
+Commissioner : Adewale Jimoh Akanbi
+Ministry : Power & Steel
+Geo Zone : South West
+
+Record 5
+Commissioner : Osazuwa Faith Etieye
+Ministry : Petroleum
+Geo Zone : South East
+
+---END OF FILE---
